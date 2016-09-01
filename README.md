@@ -1,6 +1,6 @@
 # 概要
 API勉強用のAndroidアプリです。
-　
+
 [Wiredのfeed](http://wired.jp/rssfeeder/)が吐くXMLをパースして
 * 記事のタイトル
 * ディスクリプション
